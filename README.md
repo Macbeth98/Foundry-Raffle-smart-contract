@@ -16,12 +16,20 @@
 ## Tests!
 
 1. Write some deploy scripts
-2. Write the tests
+
+- Write deploy scripts so that the testing environment and the production environment will be the same.
+
+2. Writing the tests
    1. Work on local chain
+      - Write tests and run them on the local anvil chain. The repo currently has a test coverage of 95% for the main `Raffle.sol` contract.
    2. Forked Testnet
+      - Adjust the tests so that they will run on a forked chain like Sepolia.
    3. Forked Mainnet
+      - At final stage run on a forked chain of mainnet.
 
 ## Commands
+
+- ** Refer Makefile for more commands and usage like install, deploy, etc. **
 
 - Fund a VRF Subscription from CLI
 
