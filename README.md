@@ -11,7 +11,7 @@
 
 ## Test Deployment
 
-- The contract was deployed on the SEPOLIA Network. The deployed contract was successfully verified and is at `0x85dF4F8607E0615Ddf77df08C1AF24393e1CcB7f`[https://sepolia.etherscan.io/address/0x85df4f8607e0615ddf77df08c1af24393e1ccb7f#code]
+- The contract was deployed on the SEPOLIA Network. The deployed contract was successfully verified and is at [`0x85dF4F8607E0615Ddf77df08C1AF24393e1CcB7f`](https://sepolia.etherscan.io/address/0x85df4f8607e0615ddf77df08c1af24393e1ccb7f#code)
 
 ## Tests!
 
